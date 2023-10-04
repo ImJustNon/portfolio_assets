@@ -1,6 +1,6 @@
 <h1>Assets Repository</h1>
 
-<code>
+```js
 {
     "img": "",
     "url": "",
@@ -11,7 +11,7 @@
         ""
     ]
 }
-</code>
+```
 
 <br />
 
