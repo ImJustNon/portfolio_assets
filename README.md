@@ -1,6 +1,17 @@
 <h1>Assets Repository</h1>
 
-<code></code>
+<code>
+{
+    "img": "",
+    "url": "",
+    "title": [
+        ""
+    ],
+    "description": [
+        ""
+    ]
+}
+</code>
 
 <br />
 
