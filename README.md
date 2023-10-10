@@ -26,3 +26,7 @@
 <img src="./previews/profile.png" />
 
 <br />
+
+<img src="./previews/bio-v2.png" />
+
+<br />
